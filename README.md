@@ -1,2 +1,2 @@
-# Prepcurse-Henrry
-Este es un repositorio del prepcurse de Henrry
+Marcos Castilla
+Prueba de como crear un repositorio en git hub y clonarlo en mi computadora.
